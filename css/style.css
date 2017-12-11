@@ -1,0 +1,125 @@
+
+body{
+   
+    font-family: 'Lato', sans-serif;
+
+}
+.bgimage{
+    height: 553px;
+     background-image:url("../images/banner.jpg");
+     background-repeat: no-repeat;
+   
+
+}
+.myfont{
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color:white;
+}
+
+.mynav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    line-height: 20px;
+}
+h5 {
+    margin-top: 150px;
+    margin-bottom: 10px;
+    color: white;
+}
+.absolute-text1 p{
+    font-size: 20px;
+    border: solid 1px white;
+    max-width: 250px;
+    color: white;
+    padding-bottom: 12px;
+    padding-top: 12px;
+     text-decoration:none;
+     margin: 0 auto;
+     margin-bottom: 10px;
+     
+ 
+}
+.absolute-text2 p{
+    border: solid 1px white;
+    max-width:210px;
+    color: white;
+    margin-top: 10px;
+     padding-bottom: 11px;
+     padding-top: 11px;
+     text-decoration:none;
+     margin: 0 auto;
+ 
+}
+ 
+.text{ margin-top: 20px;
+
+}
+.mybtn:hover{
+    color:white;
+    background-color:  hsl(25, 87%, 54%);
+
+}
+.mybtn {
+    color: #fff;
+    padding:5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    color: hsl(25, 87%, 54%);
+    border-color: hsl(25, 87%, 54%);
+     background-color:transparent;
+     margin-bottom: 15px;
+
+}
+.about{
+    background-color: #e9ecee;
+
+}
+.about>p{
+    margin-top: 22px;
+}
+.formfield{
+    width:400px;
+}
+
+.formarea{
+    width: 100px;
+}
+.mylink{
+    text-decoration:none;
+}
+.login.formfield{
+    width: 200px;
+}
+.mygal p{
+    margin-top: 20px;
+}
+.mytab{
+text-align: center;
+}
+i.icon{
+font-size: 80px;
+    color: #f16410;
+    text-decoration: none;
+    padding: 5px;
+}    
+    .star i{
+        color: #f16410;
+        
+    }
+
+footer{
+    background-color: #393d40;
+    color: white;
+}
+.my>li{
+    list-style-type:none;
+ 
+}
